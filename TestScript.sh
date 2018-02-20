@@ -4,5 +4,5 @@ echo "Hope this works :P"
 mkdir /var/tmp/testDirectory
 mkdir /var/tmp/deleteAfterTest
 cd /var/tmp
-touch abc
-touch def
+touch abc1
+touch def1
